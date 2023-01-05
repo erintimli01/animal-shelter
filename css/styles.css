@@ -1,0 +1,14 @@
+body {
+  background-color: rgb(196, 207, 255);
+  font-family:monospace
+}
+
+.column {
+  width: 300px;
+  float: left;
+}
+
+img{
+  max-width: 100%;
+  max-height: 100%;
+}
