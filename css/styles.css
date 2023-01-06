@@ -1,6 +1,7 @@
 body {
   background-color: rgb(196, 207, 255);
-  font-family:monospace
+  font-family: fantasy;
+  color:cadetblue
 }
 
 .column {
